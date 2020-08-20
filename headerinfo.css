@@ -1,0 +1,15 @@
+.headerinfo {
+	padding: 3px;
+	color: #FFFFFF; 
+	background-image: linear-gradient(to right, #611be6, #d05fce);
+	width:100%;
+}
+.headerinfo-ul{
+	margin: 0px;
+	padding: 10px;
+	list-style: none;
+}
+.headerinfo-li{
+	display: inline-block;
+	margin-left: 5px;
+}
